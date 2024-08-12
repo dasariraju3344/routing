@@ -1,0 +1,37 @@
+.input {
+  font-size: large;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 8px;
+  border-radius: px;
+}
+
+nav {
+  padding: 20px;
+  background-color: rgb(94, 205, 215);
+  height: 80px;
+}
+
+nav a {
+  margin-right: 50px;
+  font-size: large;
+  font-weight: 700;
+  color: rgb(105, 12, 187);
+
+}
+
+.button {
+  margin: 30px;
+}
+ 
+nav a.active {
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+
+span {
+  font-size: large;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
